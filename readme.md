@@ -1,5 +1,4 @@
 # run
 ```
-python manage.py migrate
-python manage.py runserver
+npx expo start
 ```
